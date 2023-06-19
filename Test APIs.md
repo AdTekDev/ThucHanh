@@ -11,4 +11,4 @@
 ### LINKs:
 - https://developer.riotgames.com/apis 
 - https://account.riotgames.com/account 
-- 
+- https://developer.riotgames.com/docs/lol#developer-api-policy_game-integrity 
